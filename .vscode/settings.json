@@ -18,7 +18,7 @@
   "screencastMode.onlyKeyboardShortcuts": true,
   "terminal.integrated.fontSize": 18,
   "window.zoomLevel": 3,
-  "workbench.colorTheme": "Tomorrow Night Blue",
+  "workbench.colorTheme": "Monokai Dimmed",
   "workbench.fontAliasing": "antialiased",
   "workbench.statusBar.visible": true
 }
